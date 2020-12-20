@@ -1,0 +1,12 @@
+The gamefile of Kasino
+[['ruutu', 4, 4], ['risti', 9, 9], ['risti', 8, 8], ['hertta', 6, 6], ['risti', 4, 4], ['ruutu', 12, 12], ['hertta', 12, 12], ['pata', 4, 4], ['ruutu', 7, 7], ['pata', 13, 13], ['ruutu', 3, 3], ['pata', 14, 1], ['hertta', 9, 9], ['risti', 10, 10], ['hertta', 8, 8], ['hertta', 13, 13], ['risti', 6, 6], ['pata', 12, 12], ['hertta', 5, 5], ['pata', 10, 10], ['ruutu', 14, 1], ['pata', 9, 9], ['hertta', 3, 3], ['hertta', 7, 7], ['risti', 2, 2], ['ruutu', 13, 13], ['hertta', 14, 1], ['pata', 11, 11], ['risti', 7, 7], ['ruutu', 6, 6]]
+[['hertta', 11, 11], ['hertta', 2, 2], ['risti', 13, 13], ['ruutu', 11, 11]]
+4
+[['risti', 5, 5], ['pata', 6, 6], ['hertta', 4, 4], ['pata', 8, 8]]
+[0, 0, 0]
+[['pata', 3, 3], ['risti', 14, 1], ['risti', 12, 12], ['risti', 11, 11]]
+[0, 0, 1]
+[['ruutu', 2, 2], ['pata', 15, 2], ['pata', 7, 7], ['hertta', 10, 10]]
+[0, 0, 0]
+[['ruutu', 9, 9], ['ruutu', 8, 8], ['risti', 3, 3], ['ruutu', 16, 10]]
+[0, 0, 0]
