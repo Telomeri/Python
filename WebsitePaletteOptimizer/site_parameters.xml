@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <elements>
+        <background prioritize="False" />
+        <header prioritize="False" />
+        <button prioritize="True" />
+    </elements> 
+    <colors type="Original">
+        <color code="#E81C2E" />
+        <color code="#202C45" />
+        <color code="#FFFFFF" />
+    </colors>
+    <colors type="Earthy">
+        <color code="#d5b0ac" />
+        <color code="#cea0ae" />
+        <color code="#684551" />
+        <color code="#402e2a" />
+        <color code="#9cd08f" />
+    </colors>
+    <colors type="Peach">
+        <color code="#e2c2c6" />
+        <color code="#b9929f" />
+        <color code="#9c528b" />
+        <color code="#610f7f" />
+        <color code="#2f0147" />
+    </colors>
+    <colors type="Spring">
+        <color code="#fffd98" />
+        <color code="#bde4a7" />
+        <color code="#b3d2b2" />
+        <color code="#9fbbcc" />
+        <color code="#7a9cc6" />
+    </colors>
+    <colors type="Freshy">
+        <color code="#9046cf" />
+        <color code="#cc59d2" />
+        <color code="#f487b6" />
+        <color code="#fff3f0" />
+        <color code="#fde12d" />
+    </colors>
+    <colors type="Swamp">
+        <color code="#040403" />
+        <color code="#5b7553" />
+        <color code="#8eb897" />
+        <color code="#c3e8bd" />
+        <color code="#9ddbad" />
+    </colors>
+    <colors type="Cactus">
+        <color code="#8b9474" />
+        <color code="#6cae75" />
+        <color code="#8bbd8b" />
+        <color code="#c1cc99" />
+        <color code="#f5a65b" />
+    </colors>
+    <colors type="Sunset">
+        <color code="#230903" />
+        <color code="#ffc857" />
+        <color code="#012a36" />
+        <color code="#8f857d" />
+        <color code="#ffe066" />
+    </colors>
+    <colors type="HardGround">
+        <color code="#bdc667" />
+        <color code="#77966d" />
+        <color code="#626d58" />
+        <color code="#544343" />
+        <color code="#56282d" />
+    </colors>
+    <colors type="Night">
+        <color code="#1f2041" />
+        <color code="#4b3f72" />
+        <color code="#ffc857" />
+        <color code="#119da4" />
+        <color code="#19647e" />
+    </colors>
+    <colors type="HappySpring">
+        <color code="#16e0bd" />
+        <color code="#6cae75" />
+        <color code="#78c3fb" />
+        <color code="#89a6fb" />
+        <color code="#98838f" />
+    </colors>
+    <colors type="Pastel">
+        <color code="#363537" />
+        <color code="#0cce6b" />
+        <color code="#dced31" />
+        <color code="#ef2d56" />
+        <color code="#ed7d3a" />
+    </colors>
+    <colors type="Ash">
+        <color code="#acbdba" />
+        <color code="#cddddd" />
+        <color code="#a599b5" />
+        <color code="#2e2f2f" />
+        <color code="#051014" />
+    </colors>
+    <colors type="BlueSky">
+        <color code="#a0ddff" />
+        <color code="#758ecd" />
+        <color code="#c1cefe" />
+        <color code="#7189ff" />
+        <color code="#624cab" />
+    </colors>
+    <colors type="BloodyDesert">
+        <color code="#eecf6d" />
+        <color code="#d5ac4e" />
+        <color code="#8b6220" />
+        <color code="#720e07" />
+        <color code="#45050c" />
+    </colors>
+    <colors type="PastelliNew">
+        <color code="#64a6bd" />
+        <color code="#90a8c3" />
+        <color code="#ada7c9" />
+        <color code="#d7b9d5" />
+        <color code="#f4cae0" />
+    </colors>
+    <colors type="Interesting">
+        <color code="#54494b" />
+        <color code="#f1f7ed" />
+        <color code="#91c7b1" />
+        <color code="#b33951" />
+        <color code="#e3d081" />
+    </colors>
+    <colors type="Coral">
+        <color code="#ecebe4" />
+        <color code="#cc998d" />
+        <color code="#16f4d0" />
+        <color code="#429ea6" />
+        <color code="#153b50" />
+    </colors>
+    <site port="8080"/>
+</root>
